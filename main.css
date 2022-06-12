@@ -168,7 +168,7 @@ body {
   }
   
   .sec {
-    background: #d00;
+    background: #c00;
     left: 156.5px;
     width: 5px;
     height: 132px;
@@ -176,7 +176,7 @@ body {
     animation: rotateHand 60s linear infinite;
   }
   .sec:after {
-    background: #d00;
+    background: #c00;
     border-radius: 50%;
     content: "";
     display: block;
