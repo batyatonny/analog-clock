@@ -1,2 +1,1 @@
-# analog-clock
-A simple analog clock in javascript
+#A simple analog clock in javascript
