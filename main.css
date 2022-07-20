@@ -130,7 +130,7 @@ li {
 }
 
 .hr {
-  background: #232;
+  background: #000;
   left: 152px;
   width: 13px;
   height: 100px;
@@ -138,7 +138,7 @@ li {
   animation: rotateHand 43200s linear infinite;
 }
 .hr:after {
-  background: #232;
+  background: #000;
   border-radius: 50%;
   content: "";
   display: block;
@@ -149,7 +149,7 @@ li {
 }
 
 .min {
-  background: #232;
+  background: #000;
   left: 155px;
   width: 9px;
   height: 125px;
@@ -157,7 +157,7 @@ li {
   animation: rotateHand 3600s linear infinite;
 }
 .min:after {
-  background: #232;
+  background: #000;
   border-radius: 50%;
   content: "";
   display: block;
