@@ -2,7 +2,7 @@ body {
   background: #fff;
   color: #012;
   margin-top: 100px;
-  font-family: Helvetica, sans-serif;
+  font-family: Cursive, sans-serif;
 }
 
 ul {
@@ -116,7 +116,6 @@ li {
   margin: auto;
 }
 
-/* JavaScript pre-rotates these wrappers instead of the hands when getting the time at load. If it pre-rotates the hands, then the hands will not perform 1 turn at their normal speeds. */
 .hr-wrapper, .min-wrapper, .sec-wrapper {
   position: absolute;
   width: 320px;
