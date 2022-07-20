@@ -1,6 +1,6 @@
 body {
-  background: #012;
-  color: #333;
+  background: #fff;
+  color: #012;
   margin-top: 100px;
   font-family: Helvetica, sans-serif;
 }
@@ -107,8 +107,8 @@ li {
  
 
 #clock {
-  background: aqua;
-  border: 10px solid rgb(210, 198, 198);
+  background: #aff;
+  border: 5px solid black;
   border-radius: 20%;
   position: relative;
   width: 320px;
